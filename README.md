@@ -17,9 +17,9 @@ Vultr-whmcs_PHP71-插件中文汉化
 
 <h2>投喂</h2>			
 <h4>微信扫一扫投喂</h4>
-<img src="https://blog.fywlnet.cn/images/1539175192974.jpg" style="width: 200px;height:200px">
+<img src="https://blog.fywlnet.cn/images/1539175170786.png">
 <h4>支付宝扫一扫投喂</h4>
-<img src="https://blog.fywlnet.cn/images/1539175170786.png" style="width: 200px;height:200px">
+<img src="https://blog.fywlnet.cn/images/1539175192974.jpg">
 
 
 by FYWL -AS113923
