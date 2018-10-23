@@ -16,10 +16,10 @@ Vultr-whmcs_PHP71-插件中文汉化
 上传到whmcs根目录覆盖即可
 
 <h2>投喂</h2>			
-<h4>微信扫一扫打赏</h4>
-<img src="https://blog.fywlnet.cn/wp-content/uploads/2018/10/mm_facetoface_collect_qrcode_1539175170786_看图王.png">
-<h4>支付宝扫一扫打赏</h4>
-<img src="https://blog.fywlnet.cn/wp-content/uploads/2018/10/1539175192974_看图王.jpg">
+<h4>微信扫一扫投喂</h4>
+<img src="https://blog.fywlnet.cn/wp-content/uploads/2018/10/mm_facetoface_collect_qrcode_1539175170786_看图王.png style="width: 200px;height:200px">
+<h4>支付宝扫一扫投喂</h4>
+<img src="https://blog.fywlnet.cn/wp-content/uploads/2018/10/1539175192974_看图王.jpg style="width: 200px;height:200px">
 
 
 by FYWL -AS113923
